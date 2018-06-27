@@ -1,0 +1,39 @@
+body, httml {
+	padding-left:20px;
+	padding-right:20px;
+	padding-bottom:20px;
+	padding-top:20px;
+	font-family: 'Cinzel', serif;
+	border: 5px solid blue;
+} /* Padding for the whole page to be 20px WORKS*/ 
+
+
+h1{
+	color:blue;
+	font-size: 50px;
+	margin: 5px
+} /*Make the main heading 50px
+Change the margin of heading to 5px WORKS*/
+
+h2{
+	color:blue;
+	font-weight: blue;
+} /*Change the subheading to have a colour of your choice WORKS*/
+
+h3{
+	color:blue;
+} 
+
+nav{
+	padding: 10px;
+	margin-bottom: 10px;
+} /*give the navigation 10px of padding
+navigation also have margin on the bottom of 10 WORKS*/
+
+#header {
+	border-bottom: 2px solid black
+}/*line underneath navigation*/
+
+a:hover {
+	color: blue
+}/*changes colour of navigation to bluen when mouse rolls over it*/
