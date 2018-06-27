@@ -7,7 +7,7 @@
 </head>
 
 <body>
-	<p> This doc is my go at html. Tells you about my thoughts of the day and some locations you need to see! </p>
+	<p> This doc is my first go at html. Tells you about my thoughts of the day and some locations you need to see! </p>
 
 </body>
 

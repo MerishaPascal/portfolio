@@ -7,13 +7,13 @@ body, httml {
 	border: 5px solid blue;
 } /* Padding for the whole page to be 20px WORKS*/ 
 
+
 h1{
 	color:blue;
 	font-size: 50px;
 	margin: 5px
 } /*Make the main heading 50px
 Change the margin of heading to 5px WORKS*/
-
 
 h2{
 	color:blue;
@@ -23,16 +23,6 @@ h2{
 h3{
 	color:blue;
 } 
-
-.done{border-radius: 50px;}
-
-/*create a class that adds a rounded border to an element. The apply to all your images WORKS*/
-
-
-.Done {
-        text-decoration: none;
-}/* links in the navigation to have no underline WORKS*/
-
 
 nav{
 	padding: 10px;
@@ -47,9 +37,3 @@ navigation also have margin on the bottom of 10 WORKS*/
 a:hover {
 	color: blue
 }/*changes colour of navigation to bluen when mouse rolls over it*/
-
-
-
-
-
-
